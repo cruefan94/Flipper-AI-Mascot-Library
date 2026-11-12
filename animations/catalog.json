@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "package": "flipper-ai-mascot-layer",
+  "base_character": "AI_Dolphin",
+  "approval": "base_character_only",
+  "hardware_target": {
+    "width": 128,
+    "height": 64,
+    "colors": 2
+  },
+  "clips": [
+    "idle",
+    "smile",
+    "wave",
+    "talk",
+    "think",
+    "scan",
+    "celebrate",
+    "dance",
+    "sleep",
+    "alert",
+    "connected",
+    "wink"
+  ],
+  "playback": "one_clip_at_a_time",
+  "frames": "sequential",
+  "status": "metadata_only_pending_binary_assets_and_hardware_validation",
+  "unapproved_characters": [
+    "fox",
+    "penguin",
+    "axolotl"
+  ]
+}
