@@ -15,3 +15,9 @@ The existing local v1 package contains source PNG frames, timing metadata, GIF p
 
 ## Isolation
 No firmware source, Bluetooth AI integration, or other Flipper project is modified by this library.
+
+## Unified Flipper AI project coordination
+
+This repository is indexed in the [eight-repository Flipper AI ecosystem](https://github.com/cruefan94/Flipper-AI-Integration-Testing/blob/main/PROJECT_ECOSYSTEM.md). The [private project hub and future-ideas ledger](https://github.com/cruefan94/Flipper-AI-Momentum-/blob/main/docs/UNIFIED_PROJECT_HUB.md) records cross-repository priorities, dependencies, deferred concepts and testing boundaries (requires access to private repository).
+
+**Linking a repository does not merge its source or change its integration/approval rules.** Continue to honor this repository's own release, privacy and testing restrictions. The owner's primary ChatGPT project conversation is the coordination point, not an automated chat or GitHub syncing service.
